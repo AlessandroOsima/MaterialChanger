@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "VR Material Changer Plugin",
+	"Description" : "",
+	"Category" : "Gameplay",
+	"CreatedBy" : "Alessandro Osima.",
+	"CreatedByURL" : "",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : false,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "VRMaterialChanger",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
